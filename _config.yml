@@ -1,5 +1,5 @@
-title: ブログ Github Blog　
-author: ゲルダ・リサーチ Gerda Research
+title: ゲルダ・リサーチ　ブログ Github Blog　
+author: Aoki@ゲルダ・リサーチ Gerda Research
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   調査結果とデータの紹介。主な分野：農業、基準認証、環境認証、有機、花き園芸、生産者～流通～消費者調査、顧客満足度、プラントベースト
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: 　 # DO NOT include the @ character, or else the build will fail!
+twitter_username: -　 # DO NOT include the @ character, or else the build will fail!
 github_username:  gerda research # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
