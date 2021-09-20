@@ -1,6 +1,5 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Welcome to my blog"　ブログ
+date: 2020-01-01
 ---
-Add blog post metadata
 The syntax Jekyll files : YAML front matter
